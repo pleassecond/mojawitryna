@@ -1396,6 +1396,10 @@ body {
 .cid-ro6g3JnCBu {
   background-image: url("../../../assets/images/pic-53-800x600.jpg");
 }
+.cid-ro6g3JnCBu .mbr-text,
+.cid-ro6g3JnCBu .mbr-section-btn {
+  text-align: center;
+}
 .cid-ro6m44Sxfp {
   padding-top: 90px;
   padding-bottom: 90px;
